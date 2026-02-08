@@ -1,0 +1,11 @@
+pymupdf
+pydantic
+ollama
+langchain-text-splitters
+langchain-qdrant
+qdrant-client
+sentence-transformers
+langchain-huggingface
+langchain-ollama
+fastapi
+uvicorn
